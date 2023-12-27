@@ -31,7 +31,7 @@ export const routes: Array<RouteRecordRaw> = [
     name: "无权限",
     component: NoAuthView,
     meta: {
-      access: "canAdmin",
+      access: ACCESS_ENUM.ADMIN,
     },
   },
   {
