@@ -11,7 +11,7 @@
         />
       </a-form-item>
       <a-form-item>
-        <a-button html-type="submit">提交</a-button>
+        <a-button html-type="submit">登录</a-button>
       </a-form-item>
     </a-form>
   </div>
