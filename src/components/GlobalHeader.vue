@@ -42,7 +42,7 @@ import ACCESS_ENUM from "@/access/accessEnum";
 
 const router = useRouter();
 const store = useStore();
-const loginUser = store.state.user.loginUser;
+// const loginUser = store.state.user.loginUser;
 
 // 显示在菜单的路由数组
 const visibleRoutes = computed(() => {
